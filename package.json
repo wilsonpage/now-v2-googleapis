@@ -1,0 +1,15 @@
+{
+  "name": "now-v2-googleapis",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "now dev"
+  },
+  "dependencies": {
+    "googleapis": "^20.1.0"
+  }
+}
